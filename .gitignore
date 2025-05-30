@@ -34,4 +34,4 @@ build/
 .ipynb_checkpoints
 
 # macOS specific
-.DS_Store 
+.DS_Store .env
