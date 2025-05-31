@@ -1,7 +1,8 @@
 # Computational Analysis of Linguistic Creativity in Literary Quotes
-## Master's Thesis Research Project
 
-(Refer to the **master** branch for updated code) 
+[Refer to the **master** branch for the updated code.](https://github.com/BerkeYazan/MasterThesis/tree/master)
+
+## Master's Thesis Research Project
 
 A multi-dimensional computational framework for identifying and characterizing the patterns that distinguish extraordinary language from ordinary expression through analysis of popular literary quotes from Goodreads.
 
